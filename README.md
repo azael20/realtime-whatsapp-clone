@@ -18,13 +18,14 @@ This application allows you to log in with your name, access different chat room
 ## Installation
 
 1. **Follow the steps of the repository below and start the backend:**
-   [](https://github.com/adrielgro/chat-room-node-vue3-ts-graphql)
+   
+   https://github.com/adrielgro/chat-room-node-vue3-ts-graphql
 
-2. **Clone this repository to your local machine:**
+3. **Clone this repository to your local machine:**
    ```bash
    git clone https://github.com/azael20/realtime-whatsapp-clone.git
    
-3. **Install Dependencies**:
+4. **Install Dependencies**:
    - Open a terminal in the project directory.
    - Run the following command to install all the necessary dependencies:
      ```bash
@@ -35,5 +36,5 @@ This application allows you to log in with your name, access different chat room
    - Run the following command to start the project using [Expo]:
      ```bash
      npx expo start
-     ```
-      That's it! Your application should be up and running, ready for testing.
+     
+   That's it! Your application should be up and running, ready for testing.
