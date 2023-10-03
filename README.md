@@ -17,9 +17,8 @@ This application allows you to log in with your name, access different chat room
 
 ## Installation
 
-1. **Follow the steps of the repository(option 1) below and start the backend:**
-   ```bash
-   https://github.com/adrielgro/chat-room-node-vue3-ts-graphql
+1. **Follow the steps of the repository below and start the backend:**
+   [](https://github.com/adrielgro/chat-room-node-vue3-ts-graphql)
 
 2. **Clone this repository to your local machine:**
    ```bash
