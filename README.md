@@ -35,5 +35,5 @@ This application allows you to log in with your name, access different chat room
    - Run the following command to start the project using [Expo]:
      ```bash
      npx expo start
-
+     ```
       That's it! Your application should be up and running, ready for testing.
